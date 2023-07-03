@@ -1,4 +1,4 @@
-# Projeto (Gerenciamento de Projetos
+# Projeto (Gerenciamento de Projetos)
 
 Gerenciamento de Projetos - Praticas do PMI
 Para o Desenvolvimento de um Projeto em qualquer área, se faz necessário seguir algumas práticas que foram padronizadas, com o intuito de garantir que ao final do projeto tenhamos sucesso.
