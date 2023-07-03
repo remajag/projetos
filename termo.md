@@ -3,15 +3,18 @@
 Para se criar um termo de abertura, que é uma premissa para o inicio do projeto, teremos os seguintes tópicos a serem abordados:
 
 * Justificativa do projeto
-Porque o projeto deve ser criado. Quais os problemas e situações existent3es que justificam a existência do projeto.
+
+Porque o projeto deve ser criado. Quais os problemas e situações existentes que justificam a existência do projeto.
 
 * Objetivos
+
 O que a se espera obter com o projeto. De prefencia usando a metodologia SMART (Específico, Mensurável, Atingível, Realista em um Tempo). 
 Exemplo: “Se tornar a empresa número 1 do mercado, no prazo de 1 ano após a implantação.”
 
 SMART:Specific (Específicidade), Measurable (Indicador e Meta Mensurável), Attanaible (Atingível), Realistic (Realista) e Time Based (Quando).
 
 * Produtos e principais requisitos
+
 O produto é o que vai ser entregue quando o projeto for concluído até o fim. 
 São as saidas (outputs).
 E os requisitos são os detalhes que o produto deve atender no projeto.
