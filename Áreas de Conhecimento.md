@@ -1,7 +1,7 @@
 # Áreas de Conhecimento de um Projeto
 
 
-* Escopo:
+<b>* Escopo:</b>
 Define tudo que irá ser feito no projeto, as entregas, e tudo o que não será feito também. Essa área filtra o que será entregue e como, ao longo do projeto.
 
 * Qualidade:
