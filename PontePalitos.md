@@ -1,6 +1,8 @@
 # Projeto da Ponte de Palitos
 ## Por que uma ponte de Palitos em um Curso de Desenvolvimento de Software?
-Quem estuda programação precisa desenvolver o pensamento abstrato. A construção de um ponte de palitos de sorvete é muitas vezes usada para o estudo de engenharia civil e nos cursos de arquitetura também.<br>
+Quem estuda programação precisa desenvolver o pensamento abstrato. 
+O pensamento abstrato é a capacidade que todos nós temos de conseguir observar além do que está a frente de nossos olhos, reconhecer padrões, analisar idéias e criar informação. Esse tipo de pensamento é muito importante para quem é criador de conteúdo, desenvolvedor, ou simplesmente gosta de inovações. 
+A construção de um ponte de palitos de sorvete é muitas vezes usada para o estudo em cursos de engenharia civil e também de arquitetura.<br>
 Existem muitos cálculos envolvidos para que a estrutura da ponte suporte uma carga X vezes maior que o seu peso.<br>
 No caso da nossa ponte, o objetivo é observar de maneira contundente, como cada um trabalha fora de sua zona de conforto, e, em grupo.<br>
 Através desse experimento é possivel observar a interação entre os alunos do grupo, possiveis lideres e também as capacidades de comunicação, aceitação ou não aceitação, inclusive algum tipo de conflito que possa aparecer.<br>
