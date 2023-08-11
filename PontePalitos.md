@@ -18,3 +18,13 @@ De fato é um experimento social, pois hoje em dia, além das capacidades cognit
 (https://www.youtube.com/watch?v=LXODYpoSEx4)<br>
 (https://www.youtube.com/watch?v=uut96yZLvs4)<br>
 (https://www.youtube.com/watch?v=jOJYKE6aZFg)<br>
+
+# Imagens do desenvolvimento:
+
+![WhatsApp Image 2023-08-11 at 12 00 47](https://github.com/remajag/projetos/assets/121033053/82d26ff9-20d4-4d48-b0ec-332a1696c20f)
+![WhatsApp Image 2023-08-11 at 12 00 47 (1)](https://github.com/remajag/projetos/assets/121033053/933e8958-343b-4df5-aa71-def1f7062b9f)
+![WhatsApp Image 2023-08-11 at 12 00 47 (2)](https://github.com/remajag/projetos/assets/121033053/2e6301d7-28ef-474e-9b79-20558446e4be)
+
+
+
+
