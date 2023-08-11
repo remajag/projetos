@@ -5,8 +5,6 @@ Existem muitos cálculos envolvidos para que a estrutura da ponte suporte uma ca
 No caso da nossa ponte, o objetivo é observar de maneira contundente, como cada um trabalha fora de sua zona de conforto, e, em grupo.<br>
 Através desse experimento é possivel observar a interação entre os alunos do grupo, possiveis lideres e também as capacidades de comunicação, aceitação ou não aceitação, inclusive algum tipo de conflito que possa aparecer.<br>
 De fato é um experimento social, pois hoje em dia, além das capacidades cognitivas apuradas, um desenvolvedor de software precisa ter boa comunicação e bom relacionamento com clientes e fornecedores. Também o foco e a atenção podem ser avaliados individualmente nesse experimento.<br>
-Trata-se de um trabalho em grupo, que permite que um projeto seja desenvolvido, utilizando as melhores práticas, um planejamento adequado e que gere um produto dentro das expectativas e respeitando o escopo.<br>
-Também é um briefing do Projeto de Conclusão de Curso que será desenvolvido após a apresentação da ponte.
 
 ## Exemplos de projetos de pontes estão abaixo:<br>
 
