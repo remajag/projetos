@@ -46,7 +46,7 @@ ________________________
 ### Lucas Camacho
 ### https://bushido-eight.vercel.app
 
-## Rodrigo Freire
+### Rodrigo Freire
 ### https://bushido-senai.netlify.app
 
 
