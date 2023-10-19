@@ -43,6 +43,14 @@ ________________________
 ### João Pedro Angeloni
 ### https://bushido-jao.000webhostapp.com
 
+### Lucas Camacho
+### https://bushido-eight.vercel.app
+
+## Rodrigo Freire
+### https://bushido-senai.netlify.app
+
+
+
 
 
 
