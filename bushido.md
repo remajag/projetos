@@ -49,6 +49,9 @@ ________________________
 ### Rodrigo Freire
 ### https://bushido-senai.netlify.app
 
+### Willian Yudji Nishio
+### https://bushido-kqzuue99o-willian-yudji-nishios-projects.vercel.app/#home
+
 
 
 
